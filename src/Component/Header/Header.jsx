@@ -3,19 +3,19 @@ import Logo from '../../../src/assets/জামিয়া_ইসলামি�
 
 const Header = () => {
   return (
-    <header className="bg-[#0b3d2e] text-white shadow-md shadow-green-900 rounded-b-lg border-6 border-green-800">
-      <div className=" px-6 py-8">
+    <header className="bg-[#0b3d2e] text-white ">
+      <div className=" px-6 md:px-20 py-12">
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
 
           {/* Left Section */}
           <div className="text-center md:text-left">
-            <h1 className="text-xl md:text-4xl font-bold">
+            <h1 className="text-xl md:text-3xl font-bold">
               Al-Jamiatul Islamia, Momenshahi
             </h1>
             <p className="text-sm opacity-90">
              Sahora,Mymensingh,  Bangladesh
             </p>
-            <p className=" text-3xl font-semibold mt-3">
+            <p className=" text-2xl font-semibold mt-3">
               আল-জামিয়াতুল ইসলামিয়া মোমেনশাহী
             </p>
             <p className="text-sm">
@@ -28,7 +28,7 @@ const Header = () => {
             <img
               src={Logo}
               alt="Institution Logo"
-              className="w-40 h-31 object-contain rounded-full border-4 border-white"
+              className="w-31 h-31 object-contain rounded-full border-4 border-white"
             />
           </div>
 
