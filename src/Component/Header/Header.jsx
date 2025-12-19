@@ -10,7 +10,7 @@ const Header = () => {
           {/* Left Section */}
           <div className="text-center md:text-left">
             <h1 className="text-xl md:text-3xl font-bold">
-              Al-Jamiatul Islamia, Momenshahi
+              Al-Jamiatul Islamia Momenshahi
             </h1>
             <p className="text-sm opacity-90">
              Sahora,Mymensingh,  Bangladesh
