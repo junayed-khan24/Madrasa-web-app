@@ -1,9 +1,9 @@
 import { useEffect, useState } from "react";
 
 const images = [
-  "/images/madrasa1.jpg",
-  "/images/madrasa2.jpg",
-  "/images/madrasa3.jpg",
+  "../../src/assets/madrasa1.jfif",
+  "../../src/assets/madrasa2.jfif",
+  "../../src/assets/madrasa3.jfif",
 ];
 
 const Hero = () => {
@@ -38,7 +38,7 @@ const Hero = () => {
 
           {/* Content */}
           <div>
-            <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold text-green-900 mb-4">
+            <h2 className="text-2xl md:text-3xl lg:text-3xl font-bold text-green-900 mb-4">
               জামিয়া আল ইসলামিয়া সংক্ষিপ্ত পরিচিতি
             </h2>
 
