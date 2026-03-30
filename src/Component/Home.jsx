@@ -8,7 +8,9 @@ const Home = () => {
         <div>
             <Header></Header>
             <Hero></Hero>
-            <Profile></Profile>
+            <div className="py-12 px-4">
+                <Profile></Profile>
+            </div>
         </div>
     );
 };
