@@ -71,7 +71,7 @@ const teamData = [
   },
   {
     id: 6,
-    name: "এহতেশামুল হক",
+    name: "এহতেশামুল ",
     role: "সহকারী শিক্ষক",
     img: "https://i.pravatar.cc/150?img=18",
   },
