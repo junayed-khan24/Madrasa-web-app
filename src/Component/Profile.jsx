@@ -64,15 +64,15 @@ const teamData = [
     img: "https://i.pravatar.cc/150?img=16",
   },
   {
-    id: 5,
-    name: "মাওলানা নাসির উদ্দিন",
+    id: 5,                                    
+    name: "মাওলানা নাসির উদ্দি",
     role: "সহকারী শিক্ষক",
     img: "https://i.pravatar.cc/150?img=17",
   },
   {
     id: 6,
     name: "এহতেশামুল ",
-    role: "সহকারী শিক্ষক",
+    role: "সহকারী শিক্ষ",
     img: "https://i.pravatar.cc/150?img=18",
   },
 ];
