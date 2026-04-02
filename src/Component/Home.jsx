@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './Header/Header';
 import Hero from './Hero';
 import Profile from './Profile';
+import Footer from './Footer';
 
 const Home = () => {
     return (
@@ -11,6 +12,7 @@ const Home = () => {
             <div className="py-12 px-4">
                 <Profile></Profile>
             </div>
+            <Footer></Footer>
         </div>
     );
 };
