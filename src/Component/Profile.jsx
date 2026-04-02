@@ -1,79 +1,80 @@
 import React, { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import img from "../../src/assets/Motin-Hujur.jpg";
 
 const teamData = [
   {
     id: 1,
     name: "আব্দুল কাইয়ুম",
-    role: "মুহতামিম / প্রিন্সিপাল",
-    img: "https://i.pravatar.cc/150?img=13",
+    role: "মুহতামিম / প্রিন্সিপl",
+    img: img,
   },
   {
     id: 2,
     name: "মাওলানা আনোয়ারুল হক",
     role: "শিক্ষা সচিব",
-    img: "https://i.pravatar.cc/150?img=14",
+    img: img,
   },
   {
     id: 3,
     name: "মুফতি ইব্রাহিম",
     role: "সহকারী শিক্ষক",
-    img: "https://i.pravatar.cc/150?img=15",
+    img: img,
   },
   {
     id: 4,
     name: "মাওলানা মাকসুদুল হক",
     role: "মুহাদ্দিস",
-    img: "https://i.pravatar.cc/150?img=16",
+    img: img,
   },
   {
     id: 5,
     name: "মাওলানা নাসির উদ্দিন",
     role: "সহকারী শিক্ষক",
-    img: "https://i.pravatar.cc/150?img=17",
+    img: img,
   },
   {
     id: 6,
     name: "এহতেশামুল হক",
     role: "সহকারী শিক্ষক",
-    img: "https://i.pravatar.cc/150?img=18",
+    img: img,
   },
    {
     id: 1,
     name: "আব্দুল কাইয়ুম",
     role: "মুহতামিম / প্রিন্সিপাল",
-    img: "https://i.pravatar.cc/150?img=13",
+    img: img,
   },
   {
     id: 2,
     name: "মাওলানা আনোয়ারুল হক",
     role: "শিক্ষা সচিব",
-    img: "https://i.pravatar.cc/150?img=14",
+    img: img,
   },
   {
     id: 3,
     name: "মুফতি ইব্রাহিম",
     role: "সহকারী শিক্ষক",
-    img: "https://i.pravatar.cc/150?img=15",
+    img: img,
   },
   {
     id: 4,
     name: "মাওলানা মাকসুদুল হক",
     role: "মুহাদ্দিস",
-    img: "https://i.pravatar.cc/150?img=16",
+    img: img,
   },
   {
     id: 5,                                    
     name: "মাওলানা নাসির উদ্দি",
     role: "সহকারী শিক্ষক",
-    img: "https://i.pravatar.cc/150?img=17",
+    img: img,
   },
   {
     id: 6,
     name: "এহতেশামুল ",
     role: "সহকারী শিক্ষ",
-    img: "https://i.pravatar.cc/150?img=18",
+    img: img,
   },
 ];
 
