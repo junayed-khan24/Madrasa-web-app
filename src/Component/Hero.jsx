@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { Link } from "react-router";
 
 const images = [
-  "../../src/assets/madrasa1.jfif",
+  "../../src/assets/Gemini_Generated_Image_ggh60kggh60kggh6.png",
   "../../src/assets/madrasa2.jfif",
   "../../src/assets/madrasa3.jfif",
 ];
