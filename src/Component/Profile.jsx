@@ -105,7 +105,7 @@ const Profile = () => {
             <div
               key={member.id}
               data-aos="fade-up"
-              className="card bg-base-100 shadow-md hover:shadow-xl transition duration-300 border border-gray-200 hover:border-green-300 rounded-lg"
+              className="card bg-base-100 shadow-md hover:shadow-xl transition duration-300 border border-gray-200 hover:border-green-400 rounded-lg"
             >
               <div className="card-body items-center text-center">
 
