@@ -94,7 +94,7 @@ const Profile = () => {
         {/* Title */}
         <div className="text-center mb-10">
           <h2 className="text-3xl md:text-4xl font-bold">Our Team</h2>
-          <p className="text-gray-500 mt-2">
+          <p className="text-gray-600 mt-2">
             Meet our professional team members
           </p>
         </div>
